@@ -1,2 +1,57 @@
-
-{ "Version": "13.0", "ReleaseNotes": "Whats's New? \n\n New Official App\n \n Custom Reconnect \n Online Update \n Json Support \n Anti Torrent \n Payload Generator\n\n\n IMORTALITY VPN", "Servers":[{ "Name": "Singapore GTM 1",	"Category":"0", "ServerIP": "172.104.186.203", "Flag":"sg", "Port": "442" },{ "Name": "Singapore GTM 2",	"Category":"1", "ServerIP": "139.162.13.20", "Flag":"sg", "Port": "442" },{ "Name": "Sun Server 3", "Category":"2", "ServerIP": "www.viber.com.edgekey.net.premium.tax1.yutax-pogi.xyz", "Flag":"sg", "Port": "442" },{ "Name": "Sun Server 4", "Category":"3", "ServerIP": "www.viber.com.edgekey.net.privatetax1.yutax-pogi.xyz", "Flag":"sg", "Port": "442" },{ "Name": "Sun Server 5", "Category":"4", "ServerIP": "www.viber.com.edgekey.net.viptax1.yutax-pogi.xyz", "Flag":"sg", "Port": "442" },{ "Name": "Sun Server 6", "Category":"4", "ServerIP": " www.viber.com.edgekey.net.viptax2.yutax-pogi.xyz", "Flag":"sg", "Port": "442" },{ "Name": "GTM Server 7", "Category":"4", "ServerIP": "45.32.36.106", "Flag":"sg", "Port": "442" },{ "Name": "GTM Server 8", "Category":"4", "ServerIP": " 45.76.190.205", "Flag":"sg", "Port": "442" }],"Tweaks": [{"Name": "GTM unlimeted Promo 1","Direct": false,"Payload": "HTTP/2.0 443[crlf]Host: www.gcash.com[lf]","ProxyPort": "8001"},{"Name": "GTM no Load 2","Direct": false,"Payload": "HTTP/2.0 443[crlf]Host: vimeo.com[lf]","ProxyPort": "8001"},{"Name": "Globe No Load","Direct": false,"Payload": "HTTP/2.0 443[crlf]Host: vimeo.com[lf]","ProxyPort": "8001" },{"Name": "Sun Promo 1","Direct": false,"Payload": "CONNECT [host_port] HTTP/1.1[crlf][crlf]POST https://www.viber.com.edgekey.net/ [protocol][crlf]Host: https://www.viber.com.edgekey.net[crlf]X-Online-Host: https://www.viber.com.edgekey.net[crlf]Connection: Keep-Alive[crlf][crlf]","ProxyPort": "8080" },{"Name": " TM Sectret Promo 1","Direct": false,"Payload": "CONNECT [host_port] [protocol][crlf]Host: face.yuanzhanapp.com[crlf]X-Online-Host: face.yuanzhanapp.com[crlf]X-Forward-Host: face.yuanzhanapp.com[crlf]Connection: Keep-Alive[crlf][crlf]","ProxyPort": "8080" },{"Name": "Sun CTC Promo 1","Direct": false,"Payload": "CONNECT [host_port]@line.me [protocol][crlf]Host: line.me[crlf]X-Online-Host: line.me[crlf]X-Forward-Host: line.me[crlf][crlf]","ProxyPort": "8080"}]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
+{
+    "Version": "12.0",
+    "ReleaseNotes": "Whats's New? \n\n New Official App\n \n Custom Reconnect \n Online Update \n Json Support  \n Anti Torrent \n Payload Generator\n\n\n IMORTALITY VPN",
+    "Servers":[{
+        "Name": "Singapore GTM 1",
+	"Category":"0",
+        "ServerIP": "207.148.101.201",
+        "Flag":"sg",
+        "Port": "442"
+    },{
+        "Name": "Singapore GTM 2",
+    "Category":"0",
+        "ServerIP": "108.160.142.139",
+        "Flag":"sg",
+        "Port": "442"
+    },{
+        "Name": "Singapore GTM 1",
+	"Category":"1",
+        "ServerIP": "45.32.113.139",
+        "Flag":"sg",
+        "Port": "442"
+    },{
+        "Name": "Singapore GTM 2",
+    "Category":"1",
+        "ServerIP": "45.32.113.139",
+        "Flag":"sg",
+        "Port": "442"
+    },{
+        "Name": "Singapore GTM 1",
+	"Category":"2",
+        "ServerIP": "45.32.113.139",
+        "Flag":"sg",
+        "Port": "442"
+    },{
+        "Name": "Singapore GTM 2",
+    "Category":"2",
+        "ServerIP": "158.247.203.60",
+        "Flag":"sg",
+        "Port": "442"
+    }],
+"Tweaks": [{
+"Name": "GTM no Load 1",
+"Direct": false,
+"Payload": "HTTP/2.0 443[crlf]Host: www.gcash.com[lf]",
+"ProxyPort": "8001"
+},{
+"Name": "GTM no Load 2",
+"Direct": false,
+"Payload": "HTTP/2.0 443[crlf]Host: vimeo.com[lf]",
+"ProxyPort": "8001"
+},{
+"Name": "Globe No Load",
+"Direct": false,
+"Payload": "HTTP/2.0 443[crlf]Host: vimeo.com[lf]",
+"ProxyPort": "8001"
+}]
+}
